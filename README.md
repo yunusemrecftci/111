@@ -2,7 +2,7 @@
 
 A comprehensive ground station application for rocket telemetry data collection, monitoring, and transmission. This application provides real-time monitoring of rocket systems, payload tracking, and communication with judge systems during rocket competitions.
 
-![Rocket Telemetry Interface](image.png)
+![Rocket Telemetry Interface](./image.png)
 
 ## 🚀 Features
 
@@ -175,37 +175,6 @@ python main.py
 
 ## 🔧 Configuration
 
-### Telemetry Data Formats
-
-#### Main System Format (Anakart)
-```json
-{
-  "alt": 150.5,
-  "gpsAlt": 152.3,
-  "lat": 39.9334,
-  "lng": 32.8597,
-  "eulX": 0.1,
-  "eulY": -0.2,
-  "eulZ": 0.0,
-  "pitch": 15.5,
-  "accX": 0.1,
-  "accY": 0.0,
-  "accZ": 9.8,
-  "state": 1
-}
-```
-
-#### Payload Format (Görev Yükü)
-```json
-{
-  "header": 82,
-  "lat": 39.9500,
-  "lng": 32.8700,
-  "alt": 155.2,
-  "rms_internal": 0.0020,
-  "rms_external": 0.0000
-}
-```
 
 ### Judge Communication Protocol
 
