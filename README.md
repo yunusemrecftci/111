@@ -334,6 +334,7 @@ For support and questions:
 - Create an issue in the GitHub repository
 - Check the troubleshooting section above
 - Review the technical documentation
+- Contact: yunusemrekonya6@gmail.com
 
 ## 🎯 Competition Usage
 
@@ -344,15 +345,6 @@ This ground station is **tested and validated** for rocket competition environme
 - **✅ Real-Time Performance**: Optimized for live competition monitoring
 - **✅ Cross-Platform Reliability**: Tested on Windows, macOS, and Linux
 
-### Competition Features
-- **Team Identification**: Secure team ID management with locking mechanism
-- **Judge Integration**: Automatic competition data transmission (5Hz default)
-- **Real-Time Monitoring**: Live telemetry during flight operations
-- **Data Logging**: Comprehensive flight data collection and storage
-- **Multi-System Support**: Handles complex rocket architectures
-- **Port Management**: Automatic detection and connection of telemetry sources
-- **Error Handling**: Robust error recovery for competition environments
 
----
 
 **✅ Competition Ready**: This application has been tested and validated for rocket competition environments. The system is ready for immediate use in rocket competitions with proper hardware configuration.
